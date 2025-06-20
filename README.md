@@ -14,7 +14,7 @@ A professional-grade Streamlit application that empowers users to manage and ana
 * Modular code structure with support for multi-user sessions
 
 ---
-[🎥 Watch Demo Video (Autoplay)](https://illinois.zoom.us/rec/share/93FnK-NhcxYiZUayoKKnixNrokWZt8PEfd0PK9tLxId1PMrVoapwMPtCl5NWuO92.00Sm9fH9P4FmBTyL?startTime=1750418416000)
+[🎥 Watch Demo Video](https://illinois.zoom.us/rec/share/93FnK-NhcxYiZUayoKKnixNrokWZt8PEfd0PK9tLxId1PMrVoapwMPtCl5NWuO92.00Sm9fH9P4FmBTyL?startTime=1750418416000)
 ---
 
 ## Architecture Overview
