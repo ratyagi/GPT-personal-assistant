@@ -14,7 +14,7 @@ A professional-grade Streamlit application that empowers users to manage and ana
 * Modular code structure with support for multi-user sessions
 
 ---
-https://illinois.zoom.us/rec/share/_vPwTbCCh8LnMfmLgdcjJIh3WFNdkBnA0-21GD2xf6BIz_Ek4xt4DbNnFMwGmW21.YQ8y_W979WAV9XXY?startTime=1750418416000
+https://github.com/user-attachments/assets/0d0f8d62-18ac-4ea9-bf95-b957e2b6ed0c
 ---
 
 ## Architecture Overview
@@ -98,6 +98,7 @@ Date,Amount,Category,Description
 ---
 
 ## Authentication System
+![login_auth](https://github.com/user-attachments/assets/ff5be081-7651-4150-8af4-ed687b42680f)
 
 * Login and registration UI powered by `streamlit-login-auth-ui`
 * Passwords hashed using Argon2 algorithm
