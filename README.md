@@ -1,4 +1,4 @@
-# Personal Finance Assistant
+# [Personal Finance Assistant](./Finance assistant.pdf)
 
 A professional-grade Streamlit application that empowers users to manage and analyze their personal expenses using AI insights. This project provides an intuitive user interface for financial goal tracking, expense categorization, and GPT-powered saving tips. The app includes secure user authentication and a backend powered by FastAPI.
 
