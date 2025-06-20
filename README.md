@@ -98,7 +98,7 @@ Date,Amount,Category,Description
 ---
 
 ## Authentication System
-![login_auth](https://github.com/ratyagi/GPT-personal-assistant/login_auth.png)
+![App Screenshot](./login_auth.png)
 
 * Login and registration UI powered by `streamlit-login-auth-ui`
 * Passwords hashed using Argon2 algorithm
