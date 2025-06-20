@@ -1,0 +1,10 @@
+# List of dependencies
+openai
+pandas
+plotly
+fastapi
+uvicorn
+streamlit
+python-dotenv
+python-multipart
+streamlit-login-auth-ui
